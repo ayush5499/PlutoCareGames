@@ -1,18 +1,19 @@
 ManifestFileVersion: 0
-CRC: 4123198141
+CRC: 760566067
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: asset_resources
       Dependencies: {}
     Info_1:
-      Name: scene_samplescene
+      Name: scene_boxing
       Dependencies:
         Dependency_0: asset_mat0
         Dependency_1: asset_prefab0
     Info_2:
       Name: asset_mat0
-      Dependencies: {}
+      Dependencies:
+        Dependency_0: asset_resources
     Info_3:
       Name: asset_fbx0
       Dependencies:

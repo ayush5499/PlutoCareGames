@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 116519022
+CRC: 2998292678
 Hashes:
   AssetFileHash:
     serializedVersion: 2
@@ -17,4 +17,4 @@ Assets:
 - Assets/Oculus/SampleFramework/Core/CustomHands/Models/RightHandAnimator.controller
 - Assets/Oculus/SampleFramework/Core/CustomHands/Models/LeftHandAnimator.controller
 Dependencies:
-- D:/Unity/Projects/PlutoCare/PlutoCare/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- D:/Unity/Projects/PlutoCareGames/OVRAssetBundles/OVRMasterBundle/asset_fbx0

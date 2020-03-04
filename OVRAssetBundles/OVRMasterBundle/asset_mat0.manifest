@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4293295520
+CRC: 2204057808
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e8bf0ae60930702239e23a0f1508806f
+    Hash: 3d9216accb9500cc8687f5bc772b5e5e
   TypeTreeHash:
     serializedVersion: 2
     Hash: a15026e7645264409a88f84f584030a1
@@ -15,7 +15,9 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/Materials/Gray.mat
+- Assets/Materials/GrayUnlit.mat
 - Assets/Oculus/SampleFramework/Core/CustomHands/Materials/Hands_solid.mat
 - Assets/Materials/Blue.mat
 - Assets/Materials/Red.mat
-Dependencies: []
+Dependencies:
+- D:/Unity/Projects/PlutoCareGames/OVRAssetBundles/OVRMasterBundle/asset_resources

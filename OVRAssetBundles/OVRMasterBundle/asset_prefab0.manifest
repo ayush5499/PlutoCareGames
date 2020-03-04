@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4122254139
+CRC: 229780608
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 67fba93d11c1661934cda6f138436a76
+    Hash: bbfade96192cc83fe5ffed97d7de9d0e
   TypeTreeHash:
     serializedVersion: 2
     Hash: f46da05a1e734cbf22bacb55e23d5123
@@ -42,6 +42,6 @@ Assets:
 - Assets/Oculus/SampleFramework/Core/CustomHands/CustomHandRight.prefab
 - Assets/Oculus/SampleFramework/Core/CustomHands/Models/HandPoseDefaultPf.prefab
 Dependencies:
-- D:/Unity/Projects/PlutoCare/PlutoCare/OVRAssetBundles/OVRMasterBundle/asset_mat0
-- D:/Unity/Projects/PlutoCare/PlutoCare/OVRAssetBundles/OVRMasterBundle/asset_fbx0
-- D:/Unity/Projects/PlutoCare/PlutoCare/OVRAssetBundles/OVRMasterBundle/asset_controller0
+- D:/Unity/Projects/PlutoCareGames/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- D:/Unity/Projects/PlutoCareGames/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- D:/Unity/Projects/PlutoCareGames/OVRAssetBundles/OVRMasterBundle/asset_controller0
